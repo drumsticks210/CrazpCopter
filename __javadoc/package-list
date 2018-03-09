@@ -1,0 +1,11 @@
+CrazyCopter
+CrazyCopter.Database
+CrazyCopter.Forms
+CrazyCopter.core
+CrazyCopter.entity
+CrazyCopter.enums
+CrazyCopter.gfx
+CrazyCopter.input
+CrazyCopter.libs
+CrazyCopter.screens
+CrazyCopter.utils

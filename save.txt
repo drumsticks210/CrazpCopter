@@ -1,0 +1,44 @@
+[Brandon]
+Helicopter = 1
+Score = 22
+Name = Brandon
+[Player 1]
+Helicopter = 0
+Score = 0
+Name = Player 1
+[Noah]
+Helicopter = 1
+Score = 128
+Name = Noah
+[Peter]
+Helicopter = 1
+Score = 220
+Name = Peter
+[Quang]
+Helicopter = 2
+Score = 50
+Name = Brandon
+[Blaze]
+Helicopter = 1
+Score = 325
+Name = Player 1
+[brett]
+Helicopter = 4
+Score = 51
+Name = Brandon
+[NewPlayer]
+Helicopter = 2
+Score = 52
+Name = Brandon
+[dudeawesome]
+Helicopter = 2
+Score = 42
+Name = Brandon
+[Dane]
+Helicopter = 2
+Score = 49
+Name = Brandon
+[Trent]
+Helicopter = 1
+Score = 18
+Name = Player 1
